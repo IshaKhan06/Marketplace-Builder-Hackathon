@@ -17,7 +17,7 @@ const HeroSection = () => {
     </div>
     <div className="hero mt-5 sm:mt-0">
     <Image
-             src="/images/Product/HeroSection.png"
+             src="/images/product/HeroSection.png"
              alt="Product Image"
              width={434}
              height={584}
