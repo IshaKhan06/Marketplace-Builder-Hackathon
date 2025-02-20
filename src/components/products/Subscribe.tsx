@@ -4,11 +4,11 @@ const images = [{
 }, {
     img: '/images/categories/category1.png'
 }, {
-    img: '/images/Product/product2.png'
+    img: '/images/product/product2.png'
 }, {
-    img: '/images/Product/product1.png'
+    img: '/images/product/product1.png'
 }, {
-    img: '/images/Product/product3.png'
+    img: '/images/product/product3.png'
 }, {
     img: '/images/categories/category3.png'
 }

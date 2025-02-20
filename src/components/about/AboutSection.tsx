@@ -9,7 +9,7 @@ const AboutSection = () => {
            <button className='xl:mt-28 md:mt-5 mt-10 lg:px-10 px-5 text-sm lg:text-[16px] md:py-5 py-3 bg-white/15'>View Collection</button>
         </div>
         <div className='md:w-1/2 mt-6 md:mt-0'>
-            <Image src="/images/Product/about-main.png" alt="product" width={619} height={748} className='md:w-[620px] mx-auto' />
+            <Image src="/images/product/about-main.png" alt="product" width={619} height={748} className='md:w-[620px] mx-auto' />
         </div>
     </div>
   )
