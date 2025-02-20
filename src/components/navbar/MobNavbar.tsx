@@ -7,7 +7,7 @@ const navItems = [
   { id: 1, name: "Home", slug: "/" },
   { id: 2, name: "Shop", slug: "/" },
   { id: 3, name: "Product", slug: "/product" },
-  { id: 4, name: "Page", slug: "/" },
+  { id: 4, name: "Page", slug: "" },
   { id: 5, name: "About", slug: "/about" },
   { id: 6, name: "Contact", slug: "/contact" },
 ];
