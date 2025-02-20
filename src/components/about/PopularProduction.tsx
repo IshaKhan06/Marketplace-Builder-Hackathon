@@ -8,7 +8,7 @@ const PopularProduct = () => {
     <div className="images flex sm:flex-row flex-col justify-center gap-6 mb-20">
     {/* Left */}
     <div className="left sm:w-[40%]">
-    <Image src="/images/Product/about.jpg" alt="green-sofa" width={630} height={375} className='xl:h-[380px]' />
+    <Image src="/images/product/about.jpg" alt="green-sofa" width={630} height={375} className='xl:h-[380px]' />
     <div className='md:space-y-1  text-[#2A254B]  text-base lg:text-[20px]'>
         <p>The Poplar suede sofa</p>
         <p>$99.00</p>
